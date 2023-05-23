@@ -10,13 +10,12 @@
 #include <cstdint>
 #include <cstdlib>
 #include <time.h>
+#include <sstream>
 
 using namespace std;
 
 #ifndef SHA256_H
 #define SHA256_H
-
-#include <sstream>
 
 typedef unsigned int uint32;
 
